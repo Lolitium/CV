@@ -1,1 +1,1 @@
-<p>https://lolitium.github.io/rsschool-cv/</p>
+<p>https://lolitium.github.io/CV/</p>
